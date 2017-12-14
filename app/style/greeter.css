@@ -1,0 +1,10 @@
+.app {
+  background-color: #eee;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  background: url(../img/logo.png) no-repeat;
+  color: greenyellow;
+  /* 宽度 + 高度 */
+  background-size: auto 100%;  
+} 
